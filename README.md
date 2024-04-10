@@ -13,6 +13,8 @@ Drag and dropping the files onto the window extracts the name and updates the li
 
 Typing **select all** uses a MySQL query to get the table values (shown in the demo below)
 
+When the window closes, the table data from testdb will be cleared. This will require to drag and drop new files.
+
 *As this is just a project for me to learn C and the library, it is not a fully fledged application. Meaning it's imcompleted*.
 
 More info can be seen in the **[source code](./main.c)**.
